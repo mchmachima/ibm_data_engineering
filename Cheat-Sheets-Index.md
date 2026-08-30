@@ -11,6 +11,7 @@ to where the file actually lives — cheat sheets stay in their lesson/module fo
 | C05 — Databases and SQL with Python | Views, stored procedures & transactions | [sql-cheat-sheet-views-stored-procedures-transactions.md](IBM-Data-Engineering-Certificate/C05_Databases-and-SQL-with-Python/M06_Advance-SQL/L01_Views-Stored-Procedures-and-Transactions/sql-cheat-sheet-views-stored-procedures-transactions.md) |
 | C05 — Databases and SQL with Python | Join statements | [sql-cheat-sheet-join-statements.md](IBM-Data-Engineering-Certificate/C05_Databases-and-SQL-with-Python/M06_Advance-SQL/L02_Join-Statements/sql-cheat-sheet-join-statements.md) |
 | C06 — Linux Commands and Shell Scripting | Linux basics | [linux-cheat-sheet-basic.pdf](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M01_Introduction-to-Linux/linux-cheat-sheet-basic.pdf) |
+| C06 — Linux Commands and Shell Scripting | Shell scripting | [linux-cheat-sheet-shell-scripting.pdf](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/linux-cheat-sheet-shell-scripting.pdf) |
 
 ---
 

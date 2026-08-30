@@ -255,3 +255,14 @@
   - [V03 A Brief Introduction to Networking](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M02_Introduction-to-Linux-Commands/L02_Working-with-Text-files-Networking-and-Archiving-Commands/V03_A-Brief-Introduction-to-Networking.md)
   - [V04 Networking Commands](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M02_Introduction-to-Linux-Commands/L02_Working-with-Text-files-Networking-and-Archiving-Commands/V04_Networking-Commands.md)
   - [V05 File Archiving and Compression Commands](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M02_Introduction-to-Linux-Commands/L02_Working-with-Text-files-Networking-and-Archiving-Commands/V05_File-Archiving-and-Compression-Commands.md)
+
+### M03 · Shell Scripting
+
+- [L01 Shell Scripting Basics](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L01_Shell-Scripting-Basics.md)
+- [L02 A Brief Introduction to Shell Variables](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L02_A-Brief-Introduction-to-Shell-Variables.md)
+- [L03 Filters, Pipes, and Variables](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L03_Filters-Pipes-and-Variables.md)
+- [L04 Examples of Pipes](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L04_Examples-of-Pipes.md)
+- [L05 Useful Features of the Bash Shell](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L05_Useful-Features-of-the-Bash-Shell.md)
+- [L06 Examples of Bash Shell Features](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L06_Examples-of-Bash-Shell-Features.md)
+- [L07 Advanced Bash Scripting](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L07_Advanced-Bash-Scripting.md)
+- [L08 Scheduling Jobs using Cron](IBM-Data-Engineering-Certificate/C06_Linux-Commands-and-Shell-Scripting/M03_Shell-Scripting/L08_Scheduling-Jobs-using-Cron.md)
