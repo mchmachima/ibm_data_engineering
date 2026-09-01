@@ -103,7 +103,7 @@ Triggered when the user pastes cheat-sheet-style reference content — topic/syn
 4. Save as `<language>-cheat-sheet-<topic>.md` (lowercase-hyphen, e.g. `sql-cheat-sheet-join-statements.md`, `python-cheat-sheet-string-operations.md`) directly in the relevant lesson folder.
 5. If source content is visibly truncated or garbled in the paste, flag it inline (e.g. `*(truncated in source)*`) rather than inventing content to fill the gap.
 6. Do **not** add cheat sheet terms to `GLOSSARY.md` — that's reserved for terms introduced in video lesson notes.
-7. Add a row for the new cheat sheet to `Cheat-Sheets-Index.md` at the repo root — course, topic, and a relative markdown link to the saved file. Keep the table's existing row order (by course).
+7. Add a row for the new cheat sheet to `Cheat-Sheets-Index.md` at the repo root — course, programming language (e.g. Python, SQL, Shell), topic, and a relative markdown link to the saved file. Keep the table's existing row order (by course).
 8. Confirm the file path to the user after saving, and mention that `Cheat-Sheets-Index.md` was updated.
 
 ---
